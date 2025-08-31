@@ -10,7 +10,7 @@ last_name: Liu
 superuser: false
 
 # Role/position
-role: Ph.D. student starting from 2025 Fall
+role: Ph.D. student starting from 25Fall
   
 
 # Organizations/Affiliations

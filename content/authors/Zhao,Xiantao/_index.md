@@ -10,7 +10,7 @@ last_name: Zhao
 superuser: false
 
 # Role/position
-role: Ph.D. student starting from 2025 Fall
+role: Ph.D. student starting from 25Fall
   
 
 # Organizations/Affiliations
