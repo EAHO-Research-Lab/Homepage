@@ -18,9 +18,11 @@ sections:
           <div align="center">
           🔍 Research Areas:
           </div>
-          
+
           Efficient deep learning & edge AI
+
           AI/ML for medical systems
+          
           Hardware-aware model optimization
           
           You'll be working with an amazing mentor (me), and collaborating with top researchers from other institutions.
