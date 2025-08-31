@@ -49,7 +49,7 @@ social:
     link: "https://liu-jun-chen.github.io/"
   - icon: envelope
     icon_pack: fas
-    link: 'junchen.liu@mbzuai.ac.ae'
+    link: 'junchen@usf.edu'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.com/citations?user=SN69Jk0AAAAJ&hl=en
@@ -74,7 +74,7 @@ user_groups:
   - Ph.D. Student
 ---
 
-Junchen Liu is an incoming Ph.D. student in the [Bellini College of Artificial Intelligence, Cybersecurity and Computing](https://www.usf.edu/ai-cybersecurity-computing/index.aspx) at the [University of South Florida](https://www.usf.edu/). His research mainly focus on efficient machine learning. Before joining USF, he obtained his Master’s in Machine Learning at [Mohamed bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/) and his Bachelor’s in Intelligent Science and Technology from [South China University of Technology](https://www.scut.edu.cn/new/).
+Junchen Liu is a first-year Ph.D. student in the [Bellini College of Artificial Intelligence, Cybersecurity and Computing](https://www.usf.edu/ai-cybersecurity-computing/index.aspx) at the [University of South Florida](https://www.usf.edu/). His research mainly focus on efficient machine learning. Before joining USF, he obtained his Master’s in Machine Learning at [Mohamed bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/) and his Bachelor’s in Intelligent Science and Technology from [South China University of Technology](https://www.scut.edu.cn/new/).
 
 <!-- **Honors and Awards** 
 - DAC Young Fellow (2023)
