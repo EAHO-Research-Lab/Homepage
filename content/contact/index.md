@@ -9,16 +9,16 @@ sections:
     content:
       title: Prospective Ph.D. Students
       text: |-
-         🎉 I'm Hiring a PhD student at University of South Florida! 🎉
-        As I transition to a tenure-track faculty position at USF, I'm looking for a talented student to join the Yi Sheng’s Lab for Efficient and Scalable AI Systems (YES) Lab at USF.
+          🎉 I'm Hiring a PhD student at University of South Florida! 🎉
+          As I transition to a tenure-track faculty position at USF, I'm looking for a talented student to join the Yi Sheng’s Lab for Efficient and Scalable AI Systems (YES) Lab at USF.
 
-        🔍 Research Areas:
-        Efficient deep learning & edge AI
-        AI/ML for medical systems
-        Hardware-aware model optimization
-        
-        You'll be working with an amazing mentor (me), and collaborating with top researchers from other institutions.
-        If you or someone in your network is passionate about making AI efficient, and impactful — let’s connect! Feel free to message me or email me at yes08252025@gmail.com
+          🔍 Research Areas:
+          Efficient deep learning & edge AI
+          AI/ML for medical systems
+          Hardware-aware model optimization
+          
+          You'll be working with an amazing mentor (me), and collaborating with top researchers from other institutions.
+          If you or someone in your network is passionate about making AI efficient, and impactful — let’s connect! Feel free to message me or email me at yes08252025@gmail.com
 
       # email: test@example.org
       # phone: 888 888 88 88
