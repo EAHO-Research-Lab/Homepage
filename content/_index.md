@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: EAHO Research Lab
+title: YES Lab
 date: 2022-10-24
 type: landing
 
@@ -8,13 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        EAHO Research Lab @ University of South Florida
+        YES Lab @ University of South Florida
       image:
-        filename: welcome.png
+        filename: YES_Lab.png
       text: |
         <br>
         
-        Led by [Dr. Yi Sheng](https://eaho-research-lab.github.io/Homepage/author/yi-sheng/), the Efficient, Accurate and Holistic Optimization lab (formerly, the EAHO group) develops systems to bridge the practice gap between AI and domain applications, especially in achieving fair, energy-efficient, and time-efficient Medical AI Systems.
+        Led by [Dr. Yi Sheng](https://eaho-research-lab.github.io/Homepage/author/yi-sheng/), the Efficient and Scalable AI Systems lab (formerly, the YES Lab) develops systems to bridge the practice gap between AI and domain applications, especially in achieving fair, energy-efficient, and time-efficient Medical AI Systems.
   
   # - block: collection
   #   content:

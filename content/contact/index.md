@@ -9,7 +9,16 @@ sections:
     content:
       title: Prospective Ph.D. Students
       text: |-
-        Thank you for your interest in joining our group! I am looking for 1-2 PhD students with full financial support (TA/RA positions) starting in Spring or Fall 2026. If you are interested, please email me at shengy244@gmail.com with the following materials: CV, Transcripts, TOEFL(IELTS) (if available)!
+         🎉 I'm Hiring a PhD student at University of South Florida! 🎉
+        As I transition to a tenure-track faculty position at USF, I'm looking for a talented student to join the Yi Sheng’s Lab for Efficient and Scalable AI Systems (YES) Lab at USF.
+
+        🔍 Research Areas:
+        Efficient deep learning & edge AI
+        AI/ML for medical systems
+        Hardware-aware model optimization
+        
+        You'll be working with an amazing mentor (me), and collaborating with top researchers from other institutions.
+        If you or someone in your network is passionate about making AI efficient, and impactful — let’s connect! Feel free to message me or email me at yes08252025@gmail.com
 
       # email: test@example.org
       # phone: 888 888 88 88
