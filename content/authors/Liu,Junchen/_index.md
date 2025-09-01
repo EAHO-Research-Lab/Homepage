@@ -63,7 +63,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'junchen@usf.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
