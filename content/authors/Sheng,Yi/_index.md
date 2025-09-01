@@ -65,7 +65,7 @@ social:
     link: "https://shengy10.github.io/"
   - icon: envelope
     icon_pack: fas
-    link: 'sheng1@usf.edu'
+    link: 'mailto:sheng1@usf.edu'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=SN69Jk0AAAAJ&hl=en
