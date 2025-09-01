@@ -9,7 +9,8 @@ sections:
     content:
       title: Courses
       text: >
-        ECE285, Electric Circuit Analysis I (Undergraduate Level) <br>
-        ECE350, Embedded Systems and Hardware Interfaces (Undergraduate Level) <br>
-        ECE618, Hardware Accelerators for Machine Learning (Graduate Level) 
+        CIS6930, CMOS-VLSI Design (Graduate Level) <br>
+        ECE285, Electric Circuit Analysis I (Undergraduate Level, instructued in GMU) <br>
+        ECE350, Embedded Systems and Hardware Interfaces (Undergraduate Level, instructued in GMU) <br>
+        ECE618, Hardware Accelerators for Machine Learning (Graduate Level, instructued in GMU) 
 ---
