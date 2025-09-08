@@ -10,17 +10,19 @@ sections:
       title: Prospective Ph.D. Students
       text: |-
           <div align="center">
-          🎉 I'm Hiring a PhD student at University of South Florida! 🎉 <br><br>
+          🎉 I'm Hiring a PhD student at University of South Florida! 🎉 <br>
           </div>
 
-          As I transition to a tenure-track faculty position at USF, I'm looking for a talented student to join the Yi Sheng’s Lab for Efficient and Scalable AI Systems (YES) Lab at USF.
+          As I transition to a tenure-track faculty position at USF, I'm looking for a talented student to join the Yi Sheng’s Lab for Efficient and Scalable AI Systems (YES) Lab at USF.<br><br>
 
           <div align="center">
-          🔍 Research Areas: <br><br>
+          🔍 Research Areas: <br>
 
           Efficient deep learning & edge AI
+
           AI/ML for medical systems
-          Hardware-aware model optimization<br>
+
+          Hardware-aware model optimization<br><br>
           </div>
           
           You'll be working with an amazing mentor (me), and collaborating with top researchers from other institutions.
