@@ -10,13 +10,13 @@ sections:
       title: Courses
       text: >
         <div align="center">
-          Instructed in University of South Florida <br><br>
+          Instructed in University of South Florida
         </div>
 
         CIS6930, CMOS-VLSI Design (Graduate Level) <br>
 
         <div align="center">
-          Instructed in George Mason niversity <br><br>
+          Instructed in George Mason niversity 
         </div>
 
         ECE285, Electric Circuit Analysis I (Undergraduate Level) <br>
