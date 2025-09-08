@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        Led by [Dr. Yi Sheng](https://eaho-research-lab.github.io/Homepage/author/yi-sheng/), the Efficient and Scalable AI Systems lab (i.e., the YES Lab) develops systems to bridge the practice gap between AI and domain applications, especially in achieving efficient and scalable AI systems.
+        Led by [Dr. Yi Sheng](https://shengy10.github.io/), the Efficient and Scalable AI Systems lab (i.e., the YES Lab) develops systems to bridge the practice gap between AI and domain applications, especially in achieving efficient and scalable AI systems.
   
   # - block: collection
   #   content:

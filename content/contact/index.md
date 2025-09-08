@@ -19,10 +19,8 @@ sections:
           🔍 Research Areas: <br><br>
 
           Efficient deep learning & edge AI
-
           AI/ML for medical systems
-          
-          Hardware-aware model optimization
+          Hardware-aware model optimization<br>
           </div>
           
           You'll be working with an amazing mentor (me), and collaborating with top researchers from other institutions.
