@@ -13,13 +13,13 @@ sections:
           Instructed in University of South Florida <br>
         </div>
 
-        CIS6930, CMOS-VLSI Design (Graduate Level) <br><br>
+        CDA4213/CIS6930, CMOS-VLSI Design <br><br>
 
         <div align="center">
           Instructed in George Mason niversity <br>
         </div>
 
-        ECE285, Electric Circuit Analysis I (Undergraduate Level) <br>
-        ECE350, Embedded Systems and Hardware Interfaces (Undergraduate Level) <br>
-        ECE618, Hardware Accelerators for Machine Learning (Graduate Level) 
+        ECE285, Electric Circuit Analysis I <br>
+        ECE350, Embedded Systems and Hardware Interfaces  <br>
+        ECE618, Hardware Accelerators for Machine Learning
 ---
