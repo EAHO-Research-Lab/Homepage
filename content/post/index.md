@@ -14,6 +14,8 @@ sections:
     content:
       title: News
       text: >
+        [2025.10] Session chiar for ICCAD 2025<br>
+        [2025.10] PC member for  IEEE Cloud Summit 2026 <br>
         [2025.08] Junchen and Xiantao joined the Yes Lab this fall to start their PhD journey<br>
         [2025.08] I joined the USF this fall to start my PI journey<br>
         [2025.04] TPC member for ISLVLSI 2025, GLSVLSI 2025<br>
