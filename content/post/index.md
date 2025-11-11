@@ -14,6 +14,7 @@ sections:
     content:
       title: News
       text: >
+        [2025.11] One poster is accepted by the IBM AI Compute Symposium 2025, congratulations to Junchen!<br>
         [2025.10] Session Chair for ICCAD 2025<br>
         [2025.10] PC member for  IEEE Cloud Summit 2026 <br>
         [2025.08] Junchen and Xiantao joined the Yes Lab this fall to start their PhD journey<br>
