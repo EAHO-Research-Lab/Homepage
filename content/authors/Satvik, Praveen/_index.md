@@ -1,5 +1,5 @@
 ---
-title: "Satvik Praveen"
+title: "Satvik Praveen (2026 Spring)"
 last_name: "Praveen"
 role: "Ph.D. Student"
 start_year: 2026 Spring
