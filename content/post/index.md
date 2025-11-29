@@ -17,7 +17,7 @@ sections:
         [2025.11] One poster is accepted by the IBM AI Compute Symposium 2025, congratulations to Junchen!<br>
         [2025.10] Session Chair for ICCAD 2025<br>
         [2025.10] PC member for  IEEE Cloud Summit 2026 <br>
-        [2025.08] Junchen and Xiantao joined the Yes Lab this fall to start their PhD journey<br>
+        [2025.08] Junchen joined the Yes Lab this fall to start their PhD journey<br>
         [2025.08] I joined the USF this fall to start my PI journey<br>
         [2025.04] TPC member for ISLVLSI 2025, GLSVLSI 2025<br>
         [2025.03] Join the University of South Florida (USF) in the Fall 2025<br>
