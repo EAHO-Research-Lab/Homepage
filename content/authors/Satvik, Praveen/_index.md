@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xiantao Zhao
+title: Satvik Praveen
 
 # Full Name (for SEO)
 first_name: Satvik
