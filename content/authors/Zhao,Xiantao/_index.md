@@ -3,14 +3,14 @@
 title: Xiantao Zhao
 
 # Full Name (for SEO)
-first_name: Xiantao
-last_name: Zhao
+first_name: Satvik
+last_name: Praveen
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. student starting from 25Fall
+role: Ph.D. student starting from 26 Spring
   
 
 # Organizations/Affiliations
@@ -31,7 +31,7 @@ education:
   courses:
     - course: Ph.D. in Computer Science and Engineering
       institution: University of South Florida
-      year: 2029 (expected)
+      year: 2031 (expected)
     # - course: M.S. in Machine Learning
     #   institution: Mohamed bin Zayed University of Artificial Intelligence
     #   year: 2025
