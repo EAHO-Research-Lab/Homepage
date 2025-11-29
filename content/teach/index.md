@@ -14,6 +14,7 @@ sections:
         </div>
 
         CDA4213/CIS6930, CMOS-VLSI Design <br><br>
+        CAI5107, Machine Learning <br><br>
 
         <div align="center">
           Instructed in George Mason niversity <br>
