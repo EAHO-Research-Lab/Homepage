@@ -11,7 +11,7 @@ sections:
         <div style="display: flex; align-items: center; gap: 20px;">
           <img src="Sheng_Photo.jpg" alt="Dr. Yi Sheng" style="width:120px; border-radius: 50%;">
           <div>
-            <a href="https://shengy10.github.io/" target="_blank"><strong>Dr. Yi Sheng</strong></a><br>
+            <a href="https://scholar.google.com/citations?user=SN69Jk0AAAAJ&hl=en" target="_blank"><strong>Dr. Yi Sheng</strong></a><br>
             Supervisor and Principal Investigator  
           </div>
         </div>
