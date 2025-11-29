@@ -13,7 +13,7 @@ sections:
           Instructed in University of South Florida <br>
         </div>
 
-        CDA4213/CIS6930, CMOS-VLSI Design <br><br>
+        CDA4213/CIS6930, CMOS-VLSI Design<br>
         CAI5107, Machine Learning <br><br>
 
         <div align="center">
