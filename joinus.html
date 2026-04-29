@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>YES Lab — Join Us</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Space+Mono:wght@400;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="styles.css" />
+<script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+<script src="data.js"></script>
+<script type="text/babel" src="components.jsx"></script>
+</head>
+<body>
+<div id="root"></div>
+<script type="text/babel">
+const { COLORS } = window;
+
+const POSITIONS = [
+  {
+    color: "coral",
+    title: "PhD Students",
+    icon: "🎓",
+    desc: "We are recruiting self-motivated PhD students with strong backgrounds in machine learning, computer systems, or related areas. Funding is available for strong candidates.",
+    requirements: ["BS/MS in CS, ECE, or related field", "Strong math & programming foundations", "Research experience a plus"],
+  },
+  {
+    color: "teal",
+    title: "MS Researchers",
+    icon: "🔬",
+    desc: "MS students at USF interested in thesis research on efficient AI, model compression, or federated learning are encouraged to reach out.",
+    requirements: ["Enrolled MS student at USF", "Interest in AI systems research", "Ability to commit 15+ hrs/week"],
+  },
+  {
+    color: "purple",
+    title: "Undergraduate Researchers",
+    icon: "⚗️",
+    desc: "We welcome undergraduates looking to get hands-on research experience. Great preparation for graduate school or industry research roles.",
+    requirements: ["USF undergraduate student", "Completed intro ML or systems course", "Enthusiasm and curiosity"],
+  },
+];
+
+function App() {
+  return (
+    <>
+      <Nav active="joinus" />
+      <div className="container">
+        <div className="page-hero">
+          <p className="section-label">Work With Us</p>
+          <h1 style={{ fontFamily:"var(--font-head)", fontSize:"clamp(40px,5vw,64px)", fontWeight:700, lineHeight:1.1, letterSpacing:"-0.02em" }}>
+            Join the YES Lab
+          </h1>
+        </div>
+
+        <p style={{ fontFamily:"var(--font-head)", fontSize:"clamp(17px,2vw,22px)", lineHeight:1.7, color:"var(--ink2)", maxWidth:720, marginBottom:80, textWrap:"pretty" }}>
+          We are looking for curious, driven researchers who want to make AI systems faster, leaner, and more deployable.
+          If you are passionate about the intersection of AI theory and systems-level practice, we'd love to hear from you.
+        </p>
+
+        <p className="section-label" style={{ marginBottom:20 }}>Open Positions</p>
+        <div className="positions-grid">
+          {POSITIONS.map((pos, i) => (
+            <div key={i} className="position-card" style={{ borderTopColor:COLORS[pos.color].base, borderTopWidth:3 }}>
+              <div style={{ fontSize:28, marginBottom:14 }}>{pos.icon}</div>
+              <h3 style={{ color:COLORS[pos.color].base, marginBottom:10 }}>{pos.title}</h3>
+              <p style={{ marginBottom:20 }}>{pos.desc}</p>
+              <ul style={{ paddingLeft:18, display:"flex", flexDirection:"column", gap:6 }}>
+                {pos.requirements.map((r, j) => (
+                  <li key={j} style={{ fontSize:13, color:"var(--ink2)", lineHeight:1.5 }}>{r}</li>
+                ))}
+              </ul>
+            </div>
+          ))}
+        </div>
+
+        <div style={{ marginBottom:80 }}>
+          <p className="section-label" style={{ marginBottom:20 }}>How to Apply</p>
+          <div style={{
+            background:"#fff", border:"1.5px solid oklch(91% 0.006 250)",
+            borderRadius:18, padding:"48px 52px",
+            display:"grid", gridTemplateColumns:"1fr 1fr", gap:"40px 60px",
+          }}>
+            <div>
+              <h3 style={{ fontFamily:"var(--font-head)", fontSize:18, fontWeight:700, marginBottom:12 }}>Prospective PhD Students</h3>
+              <p style={{ fontSize:14, color:"var(--ink2)", lineHeight:1.7, marginBottom:16 }}>
+                Apply through the{" "}
+                <a href="https://www.usf.edu/engineering/cse/graduate/index.aspx" style={{ color:"var(--green)" }} target="_blank" rel="noreferrer">
+                  USF CSE Graduate Admissions
+                </a>{" "}
+                portal and mention Dr. Yi Sheng in your statement of purpose. Feel free to email with your CV and a brief research statement before applying.
+              </p>
+              <a href="mailto:yisheng@usf.edu" className="btn btn-primary" style={{ fontSize:13 }}>
+                Email Dr. Sheng <ExternalIcon />
+              </a>
+            </div>
+            <div>
+              <h3 style={{ fontFamily:"var(--font-head)", fontSize:18, fontWeight:700, marginBottom:12 }}>Current USF Students</h3>
+              <p style={{ fontSize:14, color:"var(--ink2)", lineHeight:1.7, marginBottom:16 }}>
+                Send an email with your CV, unofficial transcript, and a short paragraph describing your research interests and why you want to join the YES Lab.
+                We try to respond to all inquiries within one week.
+              </p>
+              <a href="mailto:sheng1@usf.edu" className="btn btn-outline" style={{ fontSize:13 }}>
+                Get in Touch <ExternalIcon />
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div className="joinus-wrap" style={{ marginBottom:100 }}>
+          <div className="joinus-blobs">
+            <div className="blob" style={{ width:500, height:500, top:-100, right:0, background:"var(--teal)", opacity:0.12 }} />
+            <div className="blob" style={{ width:400, height:400, bottom:-80, left:-40, background:"var(--purple)", opacity:0.12 }} />
+          </div>
+          <div className="joinus-content">
+            <p className="section-label">YES Lab</p>
+            <h2>Ready to build efficient,<br />scalable AI together?</h2>
+            <p>University of South Florida · Tampa, FL · Department of Computer Science &amp; Engineering</p>
+          </div>
+          <div className="joinus-actions">
+            <a href="mailto:yisheng@usf.edu" className="btn btn-white">Contact Us <ExternalIcon /></a>
+            <a href="people.html" className="btn btn-ghost">Meet the Team</a>
+          </div>
+        </div>
+      </div>
+      <Footer />
+    </>
+  );
+}
+ReactDOM.createRoot(document.getElementById("root")).render(<App />);
+</script>
+</body>
+</html>
